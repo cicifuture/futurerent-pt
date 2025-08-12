@@ -19,7 +19,7 @@ export default function Home() {
 
   return (
     <main className="p-6 max-w-2xl mx-auto">
-      <h1 className="text-2xl font-semibold mb-4">Property Tree: Activations</h1>
+      <h1 className="text-2xl font-semibold mb-4">Property Tree:  Activations</h1>
       <div className="flex gap-2 mb-4">
         <input
           className="border rounded px-3 py-2 flex-1"
